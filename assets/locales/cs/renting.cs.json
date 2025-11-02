@@ -1,0 +1,74 @@
+{
+  "introduction": {
+    "title": "Pronájem bistra",
+    "text_arr": [
+      "Naše malebné bistro vám nabízí skvělý prostor pro menší akce a setkání s kolegy.",
+      "S 25 židlemi je ideální pro intimnější události, kde si můžete užít příjemné prostředí a výbornou atmosféru."
+    ],
+    "text_has_links": [],
+    "list_arr": [
+      "Akce, které u nás můžete uspořádat",
+      "Jaké produkty si můžete vybrat",
+      "Jak spolupráce s námi probíhá"
+    ]
+  },
+  "events": {
+    "title": "Akce, které u nás můžete uspořádat",
+    "text_arr": ["Zde je deset příkladů událostí, které můžete v našem bistru"],
+    "text_has_links": [],
+    "list_arr": [
+      "Srazy s kolegy: Ideální pro neformální setkání s kolegy při dobrém jídle a pití.",
+      "Narozeninové oslavy: Oslavte své narozeniny v útulném prostředí našeho bistra.",
+      "Firemní meetingy: Pro menší firemní meetingy s unikátním a příjemným prostředím.",
+      "Klubová setkání: Pro různé klubové aktivity nebo schůze.",
+      "Workshopy: Pro kreativní workshopy v přátelském prostředí.",
+      "Malé soukromé svatby: Pro intimní svatební obřady a oslavy.",
+      "Wine tasting akce: Pro milovníky vína s naší vybranou nabídkou.",
+      "Představení nového produktu: Unikátní prostor pro firemní prezentace.",
+      "Oslovení zákazníků: K oslovování nových zákazníků v příjemném prostředí.",
+      "Setkání s přáteli: Pro obyčejné setkání s přáteli při skvělém jídle."
+    ]
+  },
+  "products": {
+    "title": "Jaké produkty si u nás můžete vybrat",
+    "text_arr": [
+      "Při pronájmu našeho bistra nejde jen o prostor, ale i o exkluzivní gastronomický zážitek. Naše nabídka produktů je pečlivě vybrána a připravována s láskou k detailům. Při vaší události můžete vybírat z široké škály lahodných pokrmů a nápojů."
+    ],
+    "text_has_links": [],
+    "list_arr": [
+      "Výběr hlavních chodů: Od klasických po speciality, vše připravené z čerstvých surovin.",
+      "Různorodé předkrmy: Lahodné lahůdky, které potěší i ty nejnáročnější chuťové pohárky.",
+      "Originální dezerty: Pro sladký závěr události, který si každý oblíbí.",
+      "Vína a nápoje: Vybraná vína z českých vinic a široký výběr nápojů.",
+      "Vegetariánské a veganské možnosti: Pro hosty s různými dietními preferencemi.",
+      "Zdravé varianty: Pokrmy připravené s důrazem na zdraví a kvalitu surovin.",
+      "Sladké i slané dobroty z vitríny: Pro ty, kteří si chtějí dopřát něco na zub ihned.",
+      "Káva a čaj: Osvežte se naší širokou nabídkou kávových a čajových specialit."
+    ]
+  },
+  "collaboration": {
+    "title": "Jak spolupráce s námi probíhá",
+    "text_arr": [
+      "Při spolupráci na pronájmu našeho bistra klade tým naší společnosti důraz na osobní přístup a individuální řešení, aby vaše událost byla jedinečná a nezapomenutelná. Jsme připraveni vám poskytnout podporu od prvního setkání až po samotnou realizaci události.",
+      "Postup spolupráce:"
+    ],
+    "text_has_links": [],
+    "list_arr": [
+      "Osobní setkání: Požádejte o osobní setkání, abychom mohli lépe porozumět vašim potřebám a přání.",
+      "Prohlídka prostoru: Během schůzky provedeme prohlídku bistra, abyste měli představu o možnostech prostoru.",
+      "Individuální konzultace: Na základě vašich požadavků vám připravíme individuální nabídku, zohledňující váš rozpočet a představy.",
+      "Degustace: Můžete si vychutnat degustaci vybraných pokrmů a nápojů, abyste měli jistotu kvality naší nabídky.",
+      "Dohoda o pronájmu: Po vybrání a upřesnění detailů uzavřeme dohodu o pronájmu, která bude obsahovat veškeré podmínky spolupráce.",
+      "Obrázky interiéru: Pro lepší představu poskytneme fotografie interiéru a půdorys prostoru.",
+      "Flexibilita a úpravy: Jsme otevření jakýmkoli úpravám i během procesu, abychom zajistili maximální spokojenost.",
+      "Podpora během akce: Na den události poskytneme podporu pro plynulý průběh a vaší maximální spokojenost."
+    ]
+  },
+  "conclusion": {
+    "title": "",
+    "text_arr": [
+      "Jsme připraveni vyhovět vašim potřebám a vytvořit pro vás a vaše hosty, nezapomenutelný zážitek."
+    ],
+    "text_has_links": []
+  }
+}

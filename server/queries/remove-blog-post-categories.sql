@@ -1,0 +1,1 @@
+delete from blog_post_blog_post_category where blog_post_id = $1 and not(blog_post_category_id = any($2::uuid[]))

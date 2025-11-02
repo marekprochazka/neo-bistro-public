@@ -1,0 +1,6 @@
+#!/bin/bash
+
+source .env
+
+
+./lib/pg-utils/migrator $1 ./lib/pg-utils $NUXT_DATABASE_URL migrations $2

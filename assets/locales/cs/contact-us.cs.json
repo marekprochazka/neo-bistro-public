@@ -1,0 +1,23 @@
+{
+  "title": "",
+  "text_arr": [
+    "Máte jakékoli dotazy, připomínky nebo\u202fbyste si\u202fchtěli rezervovat stůl?",
+    "Neváhejte nás\u202fkontaktovat.",
+    "Jsme tu\u202fpro vás\u202fa\u202frádi vám\u202fpomůžeme s\u202fjakýmkoli požadavkem. Vaše spokojenost je\u202fpro\u202fnás\u202fprioritou a\u202ftěšíme se\u202fna\u202fsetkání s\u202fvámi."
+  ],
+  "text_has_links": [3, 4, 5],
+  "table_data": [
+    {
+      "title": "E-mail",
+      "value": "{label.email}"
+    },
+    {
+      "title": "Název Firmy",
+      "value": "{label.company_name}"
+    },
+    {
+      "title": "IČO",
+      "value": "{label.cin}"
+    }
+  ]
+}

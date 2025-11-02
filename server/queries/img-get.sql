@@ -1,0 +1,1 @@
+select * from image where id = $1

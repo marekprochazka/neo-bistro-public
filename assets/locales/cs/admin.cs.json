@@ -1,0 +1,27 @@
+{
+  "data_tables": {
+    "header": {
+      "title": "Titulek",
+      "author": "Autor",
+      "seo": "SEO",
+      "seo_name": "SEO název",
+      "seo_description": "SEO popis",
+      "seo_keywords": "SEO klíčová slova",
+      "actions": "Akce",
+      "save": "Uložit",
+      "edit": "Upravit obsah",
+      "delete": "Smazat",
+      "general": "Obecné",
+      "selections": "Výběry",
+      "categories": "Kategorie",
+      "ordering": "Řazení",
+      "file_name": "Název souboru",
+      "file_data": "Data souboru"
+    },
+    "new_post": "Nový příspěvek",
+    "edit": "Upravit",
+    "delete": "Smazat",
+    "edit_mode": "Režim úprav"
+  },
+  "post_table_title": "Příspěvky"
+}

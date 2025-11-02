@@ -1,0 +1,8 @@
+ *.*		eol=lf
+assets/*	binary eol=auto
+
+*.png binary
+*.jpg binary
+*.ico binary
+*.pdf binary
+*ttf binary

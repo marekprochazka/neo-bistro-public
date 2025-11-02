@@ -1,0 +1,18 @@
+//----------------------------------------------
+@use 'sass:map';
+
+// Use Montserrat (SIL Open Font License) from Google Fonts as a free replacement for AmsterdamThreeSlant.
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700;800&display=swap');
+
+// Removed AmsterdamThreeSlant @font-face (paid asset) and replaced uses with Montserrat (open-license).
+// If you prefer a different open font, update $font-amsterdam in `assets/styles/_typography.scss`.
+
+
+// core imports:
+@import 'styles/variables.scss';
+@import 'styles/typography.scss';
+
+@import 'styles/utils';
+@import 'styles/base';
+@import 'styles/admin';
+@import 'styles/toast';

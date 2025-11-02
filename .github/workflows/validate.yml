@@ -1,0 +1,29 @@
+name: Validate
+# Runs lint and tests on all branches except release
+
+on:
+  push:
+    branches-ignore:
+      - 'release'
+      - 'staging'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: setup .env
+        run: |
+          touch .env
+          echo "NUXT_DATABASE_URL=test" >> .env
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+          cache: 'yarn'
+      - name: Install dependencies
+        run: yarn install
+      - name: Lint
+        run: yarn lint
+      - name: Tests
+        run: yarn test

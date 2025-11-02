@@ -1,0 +1,26 @@
+{
+  "company_lunches": {
+    "title": "Obědy do\u202ffirem",
+    "text_arr": [
+      "Jsme tu\u202fpro vás\u202fa\u202fvaše zaměstnance, abychom vám\u202fzajistili chutné a\u202fvyvážené obědy přímo do\u202fvašich kanceláří. S\u202fnaší nabídkou zdravých jídel poskytneme vašim\u202fzaměstnancům potřebnou energii, která\u202fpodpoří jejich\u202fproduktivitu během pracovního\u202fdne.",
+      "Naše menu je\u202fpečlivě sestaveno tak, aby\u202fvyhovovalo různým chutím a\u202fstravovacím potřebám. Vše je\u202fbez\u202flepku, bez\u202fpřidaných cukrů, bez\u202fztužených tuků a\u202fs\u202fminimálním obsahem laktózy.",
+      "Vaše spokojenost je\u202fpro\u202fnás\u202fprioritou, a\u202fproto se\u202fsnažíme zajistit, aby\u202fvaše firemní obědy byly nejen chutné, ale\u202ftaké pohodlné a\u202fpřizpůsobené vašim potřebám. Budeme se\u202ftěšit na\u202fspolupráci."
+    ],
+    "text_has_links": []
+  },
+  "what_products_to_choose": {
+    "title": "Jaké produkty si\u202fmůžete vybrat",
+    "text_arr": [
+      "Máte možnost si\u202fvybrat z\u202frozmanité nabídky zdravých jídel, připravovaných z\u202fpřírodních a\u202fsezonních ingrediencí, bez\u202falergenů a\u202fumělých přísad. S\u202fnámi nečekejte žádné polotovary či\u202fztužené tuky - vše je\u202fpřipravováno s\u202fláskou a\u202fpéčí našeho šéfkuchaře Vaška.",
+      " Naše nabídka zahrnuje:"
+    ],
+    "text_has_links": [],
+    "list_arr": [
+      "Denní menu: Každý den připravujeme čerstvé a\u202fvyvážené obědy, které vám\u202fdodají energii pro\u202fzbytek dne. Máte možnost si\u202fvybrat ze\u202ftří hlavních chodů - jeden z\u202ftoho je\u202fvegetariánský.",
+      "Polévky: Vychutnejte si\u202flahodné polévky, které jsou\u202fvařeny s\u202fláskou a\u202fplné čerstvých ingrediencí. Každý den jedna polévka v\u202fnabídce.",
+      "Snídaně: Začněte den správně s\u202fnašimi chutnými snídaněmi, které\u202fnabízíme až\u202fdo\u202f11 hodin.",
+      "Sladké a\u202fslané dobroty z\u202fvitríny: Pro ty, kteří si\u202frádi vybírají podle momentální chuti, máme širokou škálu sladkých i\u202fslaných dobrot.",
+      "Nápoje: Ochutnejte naše\u202fosvěžující nápoje, které\u202fperfektně doplní váš\u202foběd či\u202fsnídani."
+    ]
+  }
+}

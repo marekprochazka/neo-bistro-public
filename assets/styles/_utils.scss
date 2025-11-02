@@ -1,0 +1,55 @@
+//width, font-size, height
+
+@for $value from 1 through 100 {
+  .fs-#{$value} {
+    font-size: #{$value}px;
+  }
+}
+
+.opacity-50 {
+  opacity: 50%;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.background {
+  background-image: linear-gradient(to right, #ffcde4, #ffedf5);
+}
+
+.bg-transparent {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.after-space {
+  &:after {
+    content: ' ';
+  }
+}
+
+.blink {
+  animation: blink-animation 1s step-start infinite;
+}
+@keyframes blink-animation {
+  50% {
+    opacity: 0;
+  }
+}
+
+.input-without-field {
+  .v-input__control,
+  .v-input__details {
+    display: none;
+  }
+  width: 20px;
+}

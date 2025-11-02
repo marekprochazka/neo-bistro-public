@@ -1,0 +1,36 @@
+{
+  "introduction": {
+    "title": "Dárkový poukaz",
+    "text_arr": [
+      "Dárkový poukaz - Přineste radost do života vašich blízkých!",
+      "Darujte zážitek, který zahřeje srdce a vyvolá úsměv na tváři."
+    ],
+    "text_has_links": []
+  },
+  "events": {
+    "title": "Akce, které u nás můžete uspořádat",
+    "text_arr": ["Zde je deset příkladů událostí, které můžete v našem bistru"],
+    "text_has_links": []
+  },
+  "how_it_works": {
+    "title": "Jak to funguje",
+    "text_arr": [
+      "Získání dárkového poukazu je snadné. Stačí navštívit naše bistro a zakoupit poukaz přímo na místě. Poté jednoduše předat poukaz obdarovanému a nechat ho užít zážitku podle svého výběru."
+    ],
+    "text_has_links": []
+  },
+  "benefits": {
+    "title": "Výhody dárkových poukazů",
+    "text_arr": [
+      "Jsou ideálním darem pro každého, kdo ocení kvalitní jídlo a příjemnou atmosféru."
+    ],
+    "text_has_links": []
+  },
+  "how_to_buy": {
+    "title": "Jak nakoupit",
+    "text_arr": [
+      "Navštivte naše bistro a zakupte dárkový poukaz přímo u nás. Pro více informací nás neváhejte kontaktovat nebo se zastavit osobně - jsme tu pro vás, abychom vám pomohli vybrat ten správný dárek pro vaše blízké."
+    ],
+    "text_has_links": []
+  }
+}

@@ -1,0 +1,76 @@
+body {
+  font-family: $font-montserrat !important;
+  background-color: map-get($colors, blackpearl);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+
+  &:hover {
+    color: map-get($colors, rosePink);
+  }
+}
+
+.link-alt {
+  &:hover {
+    color: inherit;
+  }
+}
+
+#opening-hrs-table {
+  tbody {
+    tr {
+      td {
+        text-align: center;
+      }
+    }
+  }
+}
+
+.max-w-550 {
+  max-width: 550px !important;
+}
+
+.max-w-1200 {
+  max-width: 1200px !important;
+}
+
+.min-h-250 {
+  min-height: 250px;
+}
+
+.min-h-375 {
+  min-height: 375px;
+}
+
+.invisibleText {
+  color: transparent;
+}
+
+.v-carousel__controls > button {
+  color: map-get($colors, rosePink);
+  width: auto !important;
+  height: auto !important;
+  &.v-btn--active {
+    color: map-get($colors, error) !important;
+  }
+}
+
+.hover-color-bolt {
+  &:hover {
+    background-color: map-get($colors, bolt) !important;
+  }
+}
+
+.hover-color-foodora {
+  &:hover {
+    background-color: map-get($colors, foodora) !important;
+  }
+}
+
+.hover-color-wolt {
+  &:hover {
+    background-color: map-get($colors, wolt) !important;
+  }
+}

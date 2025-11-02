@@ -1,0 +1,1 @@
+insert into blog_post_blog_post_category (blog_post_id, blog_post_category_id) values ($1, $2) on conflict do nothing;

@@ -1,0 +1,113 @@
+{
+  "here_for_all_static": "Jsme tu pro každého kdo",
+  "here_for_all_dynamic": [
+    "rád jí\u202fa\u202fnechce být po\u202fobědě vyřízený",
+    "má rád pravé a\u202fchutné jídlo",
+    "se potřebuje nebo\u202fchce vyvarovat lepku",
+    "si váží čerstvých surovin a\u202fkvalitních ingrediencí",
+    "hledá jídlo, které\u202fho\u202fnakopne k\u202fpráci bez\u202fpocitu těžkosti",
+    "preferuje jídlo bez\u202fumělých přísad a\u202fkonzervantů",
+    "věří, že\u202fjídlo není jen\u202fnutností, ale\u202ftaké způsobem, jak\u202fprožívat plnohodnotný život",
+    "hledá jídlo, které respektuje jeho\u202fhodnoty a\u202fživotní styl",
+    "si\u202fpřeje podporovat lokální podniky a\u202fzemědělce prostřednictvím svého\u202fstravování",
+    "se\u202fzajímá o\u202fto, co\u202fmu dává sílu a\u202fvitalitu, a\u202fnechce kompromisovat s\u202fkvalitou svého jídla"
+  ],
+  "introduction": {
+    "subtitle": "Jsme tu pro každého ",
+    "menu": "menu",
+    "navigate": "navigovat",
+    "services": "Služby",
+    "catering": "Obědy do\u202ffirem",
+    "lease": "Pronájem",
+    "rentals": "Pronájmy",
+    "workshop": "Workshopy",
+    "giftcard": "Dárkový poukaz",
+    "giftcards": "Dárkové poukazy",
+    "followus": "Sledujte nás",
+    "petfrndlytext": "Užijte si\u202flahodné pokrmy v\u202fpříjemném prostředí s\u202fvašimi čtyřnohými\u202fkamarády.",
+    "faq": "Dotazy",
+    "delivery": "rozvoz:",
+    "bolt": "Bolt",
+    "foodora": "Foodora",
+    "wolt": "Wolt",
+    "gluten-free": "Bez Lepku",
+    "lactose-free": "Bez Laktózy",
+    "seasonal-ingredients": "Sezóní suroviny",
+    "nutritional-balance": "Nutriční vyváženost",
+    "imunity": "Podporující imunitu"
+  },
+  "about-us": {
+    "list_arr": [
+      "Poznej svého kuchaře",
+      "Kdo je za tím vším",
+      "Co nás v týmu spojuje"
+    ],
+    "button": "Náš tým"
+  },
+  "news": {
+    "title": "Aktuality",
+    "text_arr": [
+      "Pro\u202faktuality, workshopy a\u202fakce nás\u202fsledujte na\u202ffacebooku, instagramu nebo\u202fna\u202ftik-toku."
+    ],
+    "text_has_links": []
+  },
+  "ourdelivery": {
+    "title": "Náš rozvoz",
+    "our": "náš rozvoz:",
+    "other": "ostatní služby:",
+    "text_arr": [
+      "Snažíme se\u202fvám co\u202fnejvíce usnadnit a\u202fzpříjemnit objednávání našich pokrmů. Pokud preferujete plánování dopředu, můžete si\u202fnechat posílat týdenní menu předem na\u202fváš\u202femail každou neděli. Stačí nám napsat na {label.email}, či\u202fna\u202fjakékoli naše sociální sítě a\u202fmy vám\u202fbudeme každou neděli posílat týdenní menu.",
+      "Pokud budete chtít objednat jídlo v\u202fden, kdy je - stačí nám\u202fzavolat, či\u202fnapsat na\u202fčíslo {label.phone} alespoň hodinu předem a\u202fmy se\u202fpostaráme o\u202fdoručení.",
+      "Rozvoz po\u202fOlomouci je\u202fzdarma při\u202fobjednání minimálně čtyř jídel. Nechte se\u202fhýčkat, ať\u202fuž jste\u202fkdekoliv!"
+    ],
+    "text_has_links": [0, 1]
+  },
+  "petfriendly": {
+    "title": "Pet fiendly",
+    "text_arr": [
+      "V našem bistru jsou vítáni i\u202fvaši chlupatí přátelé! Jsme\u202fpet\u202ffriendly podnik, který vám\u202fumožňuje si\u202fzajít na snídani či\u202foběd bez\u202ftoho, abyste museli opustit vaše\u202fmilované domácí mazlíčky.",
+      "Přijďte si užít skvělou atmosféru společně se\u202fsvými čtyřnohými kamarády!"
+    ],
+    "text_has_links": []
+  },
+  "nesnezeno": {
+    "title": "Nesnězeno",
+    "text_arr": [
+      "Jsme součástí snahy o\u202fsnížení plýtvání potravinami a\u202fposkytujeme vám\u202fmožnost zakoupit  dobroty z\u202fnaší nabídky, které by\u202fjinak skončily v\u202fkoši. Platforma Nesnězeno umožňuje objednání čerstvých pokrmů z\u202fdaného dne nebo\u202fblížící se\u202fdatu expirace za\u202fvýhodné ceny. Tímto jednoduchým krokem nejenže ušetříte peníze, ale\u202fpřispíváte i\u202fk\u202fochraně životního prostředí tím, že\u202fpomáháte zamezit plýtvání potravinami. Podpořte naši\u202fsnahu a\u202fnajděte si\u202fnás\u202fna\u202fNesnězeno!"
+    ],
+    "text_has_links": []
+  },
+  "opening-hrs": {
+    "title": "Otevírací doba",
+    "table_data": [
+      {
+        "title": "Pondělí",
+        "value": "8:00 - 15:30"
+      },
+      {
+        "title": "Úterý",
+        "value": "8:00 - 15:30"
+      },
+      {
+        "title": "Středa",
+        "value": "8:00 - 15:30"
+      },
+      {
+        "title": "Čtvrtek",
+        "value": "8:00 - 15:30"
+      },
+      {
+        "title": "Pátek",
+        "value": "8:00 - 15:30"
+      },
+      {
+        "title": "Sobota",
+        "value": "Zavřeno"
+      },
+      {
+        "title": "Neděle",
+        "value": "Zavřeno"
+      }
+    ]
+  }
+}

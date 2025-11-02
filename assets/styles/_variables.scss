@@ -1,0 +1,60 @@
+//colors
+
+$colors: (
+  //main
+  rosePink: #ba5a87,
+  rosePinkDarken: #894163,
+  secondary: #7a5969,
+
+  //validation functions
+  success: #526552,
+  successLighten: #5a825a,
+  error: #301622,
+
+  //delivery
+  bolt: #34bb78,
+  foodora: #d60265,
+  wolt: #00c4e7,
+
+  background: #f6f6f6,
+  blackpearl: #221c1f,
+
+  //pink gradients
+  pinkGradient: linear-gradient(to bottom right, #ba5988, #894163),
+  pinkGradientHover: linear-gradient(to bottom right, #ba5988, #aa57bd),
+  //green gradients
+  greenGradient: linear-gradient(to bottom right, #5a825a, #526552)
+);
+
+@mixin pink-gradient {
+  background: map-get($colors, pinkGradient);
+}
+
+@mixin pink-gradient-hover {
+  background: map-get($colors, pinkGradientHover);
+}
+
+@mixin green-gradient {
+  background: map-get($colors, greenGradient);
+}
+
+@each $color-name, $color-value in $colors {
+  .bg-#{to-lower-case($color-name)} {
+    background-color: $color-value;
+  }
+
+  // Generate a class for text color
+  .text-#{to-lower-case($color-name)} {
+    color: $color-value;
+  }
+}
+
+div {
+  letter-spacing: 2px;
+}
+
+$MOBILE-BREAKPOINT: 768px;
+
+.absolute {
+  position: absolute;
+}

@@ -1,0 +1,15 @@
+[
+  "init.sql",
+  "0001initial.sql",
+  "0002initial-next.sql",
+  "0003blog_post_category.sql",
+  "0004pwd_encrypt.sql",
+  "0005unique_email.sql",
+  "0006session.sql",
+  "0007add_root_categories.sql",
+  "0008blogpost-content.sql",
+  "0009rm-author-field.sql",
+  "0010img-field.sql",
+  "0011bytea-to-text.sql",
+  "0012menu_image.sql"
+]

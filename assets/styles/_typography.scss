@@ -1,0 +1,14 @@
+$font-montserrat: 'Montserrat', sans-serif;
+// Use Montserrat as a free replacement for AmsterdamThreeSlant (original paid font).
+$font-amsterdam: $font-montserrat;
+
+$fonts: (
+  'montserrat': $font-montserrat,
+  'amsterdam': $font-amsterdam,
+);
+
+@each $fontname, $value in $fonts {
+  .font-#{$fontname} {
+    font-family: #{$value} !important;
+  }
+}

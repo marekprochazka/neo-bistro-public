@@ -1,0 +1,1 @@
+insert into menu (ordering) values (-1);
